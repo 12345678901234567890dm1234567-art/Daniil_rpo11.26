@@ -7,7 +7,7 @@ int main() // классная
 	SetConsoleOutputCP(CP_UTF8); // 1251
 	srand(time(NULL));
 
-
+	123;
 
 	return 0;
 }
